@@ -64,5 +64,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [prius2055.netlify.app](https://pagenotfound-prius2055.netlify.app/)
-- GitHub [github.com/prius2055](https://github.com/prius2055)
+- GitHub [github.com/prius2055](https://prius2055.github.io/404-not-found/)
 - Twitter [twitter.com/prius2055](https://twitter.com/prius2055)
