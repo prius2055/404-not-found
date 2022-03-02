@@ -63,6 +63,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [https://pagenotfound-prius2055.netlify.app/](https://{pagenotfound-prius2055.netlify.app/})
+- Website [https://pagenotfound-prius2055.netlify.app/](https://pagenotfound-prius2055.netlify.app/)
 - GitHub [https://github.com/prius2055](https://{github.com/prius2055})
 - Twitter [https://{twitter.com/prius2055}](https://{twitter.com/your-username})
